@@ -1,2 +1,2 @@
-# aoaa-mongodb-kafka-connector-plugins
+# mongodb-kafka-connector-plugins
 plugin library for Kafka connectors
